@@ -212,8 +212,7 @@ footer{
 }
 @media screen and (max-width:480px) {
 .navhead{
-    padding: 0px;
-    margin: 10px 15px;
+    padding: 10px 20px;
     /* box-shadow: 2px 2px 2px 2px whitesmoke; */
     gap: 5px;
     box-shadow: none;
@@ -225,7 +224,7 @@ footer{
     font-size: 12px;
 }
 
-.icon{
+.icon2{
     display: none;
 }
 .bodyimg{
@@ -235,6 +234,7 @@ footer{
     font-size: 20px;
     width: 70%;
     color: white;
+
 }
 .ourservice{
     font-size: 20px;
@@ -248,6 +248,9 @@ footer{
     font-size: 20px;
     color: gray;
     padding: 40px 0px;
+}
+.classimg{
+    display: none;
 }
 .chooseus{
     flex-direction: column;
